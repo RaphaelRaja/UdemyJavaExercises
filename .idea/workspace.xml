@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cd3217b-c5a7-4a8e-a96e-40f0ccaef20a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EqualSumChecker/EqualSumCheckerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EqualSumChecker/EqualSumCheckerSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeenNumberChecker/TeenNumberCheckerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeenNumberChecker/TeenNumberCheckerSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AreaCalculator/AreaCalculatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AreaCalculator/AreaCalculatorSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,13 +34,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.TeenNumberCheckerMain">
-    <configuration name="BarkingDogMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BarkingDog.BarkingDogMain" />
+  <component name="RunManager" selected="Application.AreaCalculatorMain">
+    <configuration name="AreaCalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaCalculator.AreaCalculatorMain" />
       <module name="UdemyJavaExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BarkingDog.*" />
+          <option name="PATTERN" value="AreaCalculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AreaCalculatorMain" />
         <item itemvalue="Application.TeenNumberCheckerMain" />
         <item itemvalue="Application.EqualSumCheckerMain" />
         <item itemvalue="Application.DecimalComparatorMain" />
         <item itemvalue="Application.LeapYearCalculatorMain" />
-        <item itemvalue="Application.BarkingDogMain" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582398867520</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Completed TeenNumberCheckerSolution">
+      <created>1582401750685</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582401750685</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -182,33 +187,34 @@
     <MESSAGE value="Completed BarkingDogSolution" />
     <MESSAGE value="Completed LeapYearCalculatorSolution" />
     <MESSAGE value="Completed DecimalComparatorSolution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed DecimalComparatorSolution" />
+    <MESSAGE value="Completed TeenNumberCheckerSolution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed TeenNumberCheckerSolution" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="675" key="#Project_Structure" timestamp="1580843708854">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="59" width="800" height="675" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1580843708854" />
-    <state x="329" y="27" width="698" height="739" key="CommitChangelistDialog2" timestamp="1582398867260">
+    <state x="329" y="27" width="698" height="739" key="CommitChangelistDialog2" timestamp="1582401750618">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="329" y="27" width="698" height="739" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1582398867260" />
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1582401623227">
+    <state x="329" y="27" width="698" height="739" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1582401750618" />
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1582402793250">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582401623227" />
-    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1582401623227">
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582402793250" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1582402793249">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582401623227" />
-    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1582401623226">
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582402793249" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1582402793249">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582401623226" />
-    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1582401623227">
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582402793249" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1582402793250">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582401623227" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582402793250" />
     <state width="1324" height="221" key="GridCell.Tab.1.bottom" timestamp="1582401143473">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -225,10 +231,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1324" height="221" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1582401143473" />
-    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1582398871193">
+    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1582401755550">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1582398871193" />
+    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1582401755550" />
     <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582397507962">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
