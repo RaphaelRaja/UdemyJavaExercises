@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cd3217b-c5a7-4a8e-a96e-40f0ccaef20a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NumberInWord/NumberInWordMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberInWord/NumberInWordSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfDaysInMonth/NumberOfDaysInMonthMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfDaysInMonth/NumberOfDaysInMonthSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,20 +34,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.NumberInWordMain">
-    <configuration name="AreaCalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AreaCalculator.AreaCalculatorMain" />
-      <module name="UdemyJavaExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AreaCalculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NumberOfDaysInMonthMain">
     <configuration name="EqualityPrinterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EqualityPrinter.EqualityPrinterMain" />
       <module name="UdemyJavaExercises" />
@@ -87,6 +74,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NumberOfDaysInMonthMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfDaysInMonth.NumberOfDaysInMonthMain" />
+      <module name="UdemyJavaExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NumberOfDaysInMonth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PlayingCatMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PlayingCat.PlayingCatMain" />
       <module name="UdemyJavaExercises" />
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberOfDaysInMonthMain" />
         <item itemvalue="Application.NumberInWordMain" />
         <item itemvalue="Application.PlayingCatMain" />
         <item itemvalue="Application.EqualityPrinterMain" />
         <item itemvalue="Application.MinutesToYearsDaysCalculatorMain" />
-        <item itemvalue="Application.AreaCalculatorMain" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582477469778</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Completed NumberInWordSolution">
+      <created>1582478943945</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1582478943945</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -219,33 +226,34 @@
     <MESSAGE value="Completed AreaCalculatorSolution" />
     <MESSAGE value="Completed EqualityPrinterSolution" />
     <MESSAGE value="Completed PlayingCatSolution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed PlayingCatSolution" />
+    <MESSAGE value="Completed NumberInWordSolution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed NumberInWordSolution" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="59" width="800" height="675" key="#Project_Structure" timestamp="1580843708854">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="59" width="800" height="675" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1580843708854" />
-    <state x="329" y="27" width="698" height="739" key="CommitChangelistDialog2" timestamp="1582477469732">
+    <state x="329" y="27" width="698" height="739" key="CommitChangelistDialog2" timestamp="1582478943895">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="329" y="27" width="698" height="739" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1582477469732" />
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1582478244995">
+    <state x="329" y="27" width="698" height="739" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1582478943895" />
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1582481053234">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582478244995" />
-    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1582478244995">
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582481053234" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1582481053233">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582478244995" />
-    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1582478244995">
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582481053233" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1582481053233">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582478244995" />
-    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1582478244995">
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582481053233" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1582481053234">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582478244995" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582481053234" />
     <state width="1324" height="221" key="GridCell.Tab.1.bottom" timestamp="1582403148923">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -262,10 +270,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1324" height="221" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1582403148923" />
-    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1582477472166">
+    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1582478946529">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1582477472166" />
+    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1582478946529" />
     <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582467088898">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
