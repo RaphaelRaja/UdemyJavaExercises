@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cd3217b-c5a7-4a8e-a96e-40f0ccaef20a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MinutesToYearsDaysCalculator/MinutesToYearsDaysCalculatorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinutesToYearsDaysCalculator/MinutesToYearsDaysCalculatorSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EqualityPrinter/EqualityPrinterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EqualityPrinter/EqualityPrinterSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +34,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.MinutesToYearsDaysCalculatorMain">
+  <component name="RunManager" selected="Application.EqualityPrinterMain">
     <configuration name="AreaCalculatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaCalculator.AreaCalculatorMain" />
       <module name="UdemyJavaExercises" />
@@ -48,12 +48,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalComparatorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DecimalComparator.DecimalComparatorMain" />
+    <configuration name="EqualSumCheckerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EqualSumChecker.EqualSumCheckerMain" />
       <module name="UdemyJavaExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DecimalComparator.*" />
+          <option name="PATTERN" value="EqualSumChecker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualSumCheckerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EqualSumChecker.EqualSumCheckerMain" />
+    <configuration name="EqualityPrinterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EqualityPrinter.EqualityPrinterMain" />
       <module name="UdemyJavaExercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="EqualSumChecker.*" />
+          <option name="PATTERN" value="EqualityPrinter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EqualityPrinterMain" />
         <item itemvalue="Application.MinutesToYearsDaysCalculatorMain" />
         <item itemvalue="Application.AreaCalculatorMain" />
         <item itemvalue="Application.TeenNumberCheckerMain" />
         <item itemvalue="Application.EqualSumCheckerMain" />
-        <item itemvalue="Application.DecimalComparatorMain" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582403070977</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Completed AreaCalculatorSolution">
+      <created>1582469763345</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582469763345</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,26 +210,26 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="278" y="59" width="800" height="675" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1580843708854" />
-    <state x="329" y="27" width="698" height="739" key="CommitChangelistDialog2" timestamp="1582403070930">
+    <state x="329" y="27" width="698" height="739" key="CommitChangelistDialog2" timestamp="1582469763076">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="329" y="27" width="698" height="739" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1582403070930" />
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1582469646883">
+    <state x="329" y="27" width="698" height="739" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1582469763076" />
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1582471743147">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582469646883" />
-    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1582469646883">
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582471743147" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1582471743147">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582469646883" />
-    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1582469646883">
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582471743147" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1582471743146">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582469646883" />
-    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1582469646883">
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582471743146" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1582471743147">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582469646883" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582471743147" />
     <state width="1324" height="221" key="GridCell.Tab.1.bottom" timestamp="1582403148923">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -239,10 +246,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1324" height="221" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1582403148923" />
-    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1582403072777">
+    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1582469768699">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1582403072777" />
+    <state x="278" y="133" width="800" height="526" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1582469768699" />
     <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582467088898">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
